@@ -1,3 +1,5 @@
+# Written by Lilian Rouzaire
+
 n = int(input("Enter value for n : ")) # List size
 i = 0 # Counter representing the current position in the subsequence (the decimal representation of the binary number we will write)
 l = 1 # Counter representing the current length of the word we are writing (the length of each element in the subsequence)
